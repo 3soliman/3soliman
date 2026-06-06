@@ -155,7 +155,7 @@ Booking Systems    ERP Integration   Dashboards
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3soliman&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+  <img src="./assets/trophy.svg" alt="GitHub Trophies" width="100%" />
 </p>
 
 <p align="center">
@@ -163,9 +163,13 @@ Booking Systems    ERP Integration   Dashboards
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3soliman&theme=react&hide_border=true&area=true&bg_color=0F172A&color=6366F1&line=06B6D4&point=FFFFFF" alt="Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3soliman/3soliman/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/3soliman/3soliman/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/3soliman/3soliman/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
