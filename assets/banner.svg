@@ -1,0 +1,81 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Soliman Alsabahi GitHub profile banner</title>
+  <desc id="desc">Modern dark banner for a Full Stack developer with indigo and cyan styling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="glowLine" x1="80" y1="60" x2="1120" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#6366F1" stop-opacity="0.55"/>
+      <stop offset="0.75" stop-color="#06B6D4" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.39 0 0 0 0 0.4 0 0 0 0 0.95 0 0 0 0.35 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect width="1200" height="360"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <path d="M-80 280C200 200 340 310 580 210C820 110 960 30 1280 90" stroke="url(#glowLine)" stroke-width="90" stroke-linecap="round"/>
+
+  <g clip-path="url(#clip)">
+    <path d="M910 -30H980L770 390H700L910 -30Z" fill="#6366F1" fill-opacity="0.85"/>
+    <path d="M1000 -30H1030L820 390H790L1000 -30Z" fill="#06B6D4" fill-opacity="0.55"/>
+    <path d="M1055 -30H1100L890 390H845L1055 -30Z" fill="#6366F1" fill-opacity="0.3"/>
+    <path d="M-20 300H320" stroke="#6366F1" stroke-width="6"/>
+    <path d="M40 322H260" stroke="#06B6D4" stroke-opacity="0.7" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(64 52)">
+    <rect x="0" y="0" width="680" height="256" rx="4" fill="#0B1120" fill-opacity="0.72" stroke="url(#accentGrad)" stroke-width="2"/>
+    <rect x="0" y="0" width="680" height="8" fill="url(#accentGrad)"/>
+    <path d="M24 58H210" stroke="#6366F1" stroke-width="5" stroke-linecap="square" filter="url(#glow)"/>
+    <text x="24" y="102" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="40" font-weight="800">Soliman Alsabahi</text>
+    <text x="26" y="136" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" font-weight="600">سليمان حمود الصباحي — Full Stack Developer</text>
+    <text x="26" y="174" fill="#E2E8F0" font-family="Consolas, JetBrains Mono, monospace" font-size="15">build(idea) = web + mobile + ERP + AI + deploy()</text>
+    <g transform="translate(26 200)">
+      <rect x="0" y="0" width="108" height="30" rx="2" fill="#6366F1"/>
+      <text x="14" y="20" fill="#FFFFFF" font-family="Consolas, JetBrains Mono, monospace" font-size="12" font-weight="700">ANGULAR</text>
+      <rect x="118" y="0" width="108" height="30" rx="2" fill="#0F172A" stroke="#6366F1"/>
+      <text x="132" y="20" fill="#FFFFFF" font-family="Consolas, JetBrains Mono, monospace" font-size="12" font-weight="700">FLUTTER</text>
+      <rect x="236" y="0" width="118" height="30" rx="2" fill="#0F172A" stroke="#06B6D4"/>
+      <text x="250" y="20" fill="#FFFFFF" font-family="Consolas, JetBrains Mono, monospace" font-size="12" font-weight="700">ASP.NET</text>
+      <rect x="364" y="0" width="88" height="30" rx="2" fill="#0F172A" stroke="#06B6D4" stroke-opacity="0.7"/>
+      <text x="378" y="20" fill="#FFFFFF" font-family="Consolas, JetBrains Mono, monospace" font-size="12" font-weight="700">ODOO</text>
+    </g>
+  </g>
+
+  <g transform="translate(800 78)" filter="url(#glow)">
+    <circle cx="96" cy="96" r="88" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="4"/>
+    <circle cx="96" cy="96" r="68" fill="#0B1120" stroke="#334155" stroke-width="2"/>
+    <path d="M52 100L84 132L148 68" stroke="#06B6D4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M54 99L86 131L150 66" stroke="#6366F1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g opacity="0.8">
+    <text x="856" y="308" fill="#94A3B8" font-family="Consolas, JetBrains Mono, monospace" font-size="14">SANA'A, YEMEN</text>
+    <text x="64" y="334" fill="#6366F1" font-family="Consolas, JetBrains Mono, monospace" font-size="13">FULL STACK</text>
+    <text x="200" y="334" fill="#94A3B8" font-family="Consolas, JetBrains Mono, monospace" font-size="13">ERP SYSTEMS</text>
+    <text x="360" y="334" fill="#94A3B8" font-family="Consolas, JetBrains Mono, monospace" font-size="13">AI SOLUTIONS</text>
+    <text x="530" y="334" fill="#06B6D4" font-family="Consolas, JetBrains Mono, monospace" font-size="13">12+ PROJECTS</text>
+  </g>
+</svg>
