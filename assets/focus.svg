@@ -1,0 +1,57 @@
+<svg width="1100" height="420" viewBox="0 0 1100 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">E,'D'* 'D9ED</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1100" height="420" rx="18" fill="url(#bg)" stroke="#334155" stroke-width="1.5"/>
+
+  <text x="550" y="42" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="24" font-weight="800" direction="rtl">E'0' #(FJ</text>
+  <path d="M420 52H680" stroke="#6366F1" stroke-width="3" filter="url(#glow)"/>
+
+  <!-- Card 1 -->
+  <g transform="translate(28 72)">
+    <rect width="510" height="155" rx="14" fill="#111827" stroke="#6366F1" stroke-opacity="0.35"/>
+    <rect width="6" height="155" rx="3" fill="#6366F1"/>
+    <text x="490" y="38" text-anchor="end" fill="#6366F1" font-size="22" direction="rtl"><</text>
+    <text x="490" y="68" text-anchor="end" fill="#F8FAFC" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="20" font-weight="700" direction="rtl">*7HJ1 Full Stack</text>
+    <text x="490" y="98" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="15" direction="rtl">Angular · ASP.NET Core · Flutter · REST · JWT</text>
+    <text x="490" y="128" text-anchor="end" fill="#64748B" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="14" direction="rtl">EH'B9 APIs H*7(JB'* ,H'D E*C'ED)</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(562 72)">
+    <rect width="510" height="155" rx="14" fill="#111827" stroke="#06B6D4" stroke-opacity="0.35"/>
+    <rect width="6" height="155" rx="3" fill="#06B6D4"/>
+    <text x="490" y="38" text-anchor="end" fill="#06B6D4" font-size="22" direction="rtl">=æ</text>
+    <text x="490" y="68" text-anchor="end" fill="#F8FAFC" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="20" font-weight="700" direction="rtl">#F8E) ERP H Odoo</text>
+    <text x="490" y="98" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="15" direction="rtl">Modules · Access Rights · QWeb · Integration</text>
+    <text x="490" y="128" text-anchor="end" fill="#64748B" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="14" direction="rtl">EH/JHD'* E.55) H1(7 E9 #F8E) .'1,J)</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(28 245)">
+    <rect width="510" height="155" rx="14" fill="#111827" stroke="#10B981" stroke-opacity="0.35"/>
+    <rect width="6" height="155" rx="3" fill="#10B981"/>
+    <text x="490" y="38" text-anchor="end" fill="#10B981" font-size="22" direction="rtl"><è</text>
+    <text x="490" y="68" text-anchor="end" fill="#F8FAFC" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="20" font-weight="700" direction="rtl">EF5'* 'D-,H2'*</text>
+    <text x="490" y="98" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="15" direction="rtl">Paymob · Dashboards · Booking Flow</text>
+    <text x="490" y="128" text-anchor="end" fill="#64748B" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="14" direction="rtl">9B'1'* 3J'-) /A9 %DC*1HFJ HE-'3()</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g transform="translate(562 245)">
+    <rect width="510" height="155" rx="14" fill="#111827" stroke="#8B5CF6" stroke-opacity="0.35"/>
+    <rect width="6" height="155" rx="3" fill="#8B5CF6"/>
+    <text x="490" y="38" text-anchor="end" fill="#8B5CF6" font-size="22" direction="rtl">></text>
+    <text x="490" y="68" text-anchor="end" fill="#F8FAFC" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="20" font-weight="700" direction="rtl">0C'! '57F'9J</text>
+    <text x="490" y="98" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="15" direction="rtl">TensorFlow · Scikit-learn · Flutter</text>
+    <text x="490" y="128" text-anchor="end" fill="#64748B" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="14" direction="rtl">FE'0, E(FJ) EF 'D5A1 (/B) 9'DJ)</text>
+  </g>
+</svg>
